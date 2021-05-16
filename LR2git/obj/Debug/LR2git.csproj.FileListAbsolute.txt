@@ -1,0 +1,20 @@
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\obj\Debug\LR2git.csprojAssemblyReference.cache
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\obj\Debug\LR2git.Form1.resources
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\obj\Debug\LR2git.Properties.Resources.resources
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\obj\Debug\LR2git.csproj.GenerateResource.cache
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\obj\Debug\LR2git.csproj.CoreCompileInputs.cache
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\bin\Debug\LR2git.exe.config
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\bin\Debug\LR2git.exe
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\bin\Debug\LR2git.pdb
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\obj\Debug\LR2git.exe
+C:\Users\demid\Desktop\Учеба\3 КУРС 2 СЕМЕСТР\Programming\ЛБ\ЛБ2\LR\LR2git\LR2git\LR2git\obj\Debug\LR2git.pdb
+C:\Users\User\Desktop\LR2git\LR2git\bin\Debug\LR2git.exe.config
+C:\Users\User\Desktop\LR2git\LR2git\bin\Debug\LR2git.exe
+C:\Users\User\Desktop\LR2git\LR2git\bin\Debug\LR2git.pdb
+C:\Users\User\Desktop\LR2git\LR2git\obj\Debug\LR2git.csprojAssemblyReference.cache
+C:\Users\User\Desktop\LR2git\LR2git\obj\Debug\LR2git.Form1.resources
+C:\Users\User\Desktop\LR2git\LR2git\obj\Debug\LR2git.Properties.Resources.resources
+C:\Users\User\Desktop\LR2git\LR2git\obj\Debug\LR2git.csproj.GenerateResource.cache
+C:\Users\User\Desktop\LR2git\LR2git\obj\Debug\LR2git.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LR2git\LR2git\obj\Debug\LR2git.exe
+C:\Users\User\Desktop\LR2git\LR2git\obj\Debug\LR2git.pdb
